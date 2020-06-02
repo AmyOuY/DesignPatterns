@@ -19,7 +19,8 @@ namespace LSP
             ITManager.CalculateSalary(6);
 
             //Employee employee = new Employee();
-            ISupervisee employee = new Employee();
+            //ISupervisee employee = new Employee();
+            Employee employee = new Supervisor();         
             employee.FirstName = "Sue";
             employee.LastName = "Cameron";
             employee.CalculateSalary(4);
