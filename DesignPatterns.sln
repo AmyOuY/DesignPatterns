@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP\ISP.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "ISPLibrary\ISPLibrary.csproj", "{A407E376-051B-4F25-8C7D-A0C5D13E77FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI.csproj", "{F882038D-360F-4076-82F5-A3DCB32B90F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DILibrary", "DILibrary\DILibrary.csproj", "{46B09675-CC69-4CC2-BD42-BDCC9F55305A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{A407E376-051B-4F25-8C7D-A0C5D13E77FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A407E376-051B-4F25-8C7D-A0C5D13E77FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A407E376-051B-4F25-8C7D-A0C5D13E77FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F882038D-360F-4076-82F5-A3DCB32B90F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F882038D-360F-4076-82F5-A3DCB32B90F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F882038D-360F-4076-82F5-A3DCB32B90F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F882038D-360F-4076-82F5-A3DCB32B90F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B09675-CC69-4CC2-BD42-BDCC9F55305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B09675-CC69-4CC2-BD42-BDCC9F55305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B09675-CC69-4CC2-BD42-BDCC9F55305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B09675-CC69-4CC2-BD42-BDCC9F55305A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
