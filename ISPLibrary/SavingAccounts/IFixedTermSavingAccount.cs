@@ -8,5 +8,6 @@ namespace ISPLibrary.SavingAccounts
 {
     public interface IFixedTermSavingAccount : ISavingAccount
     {
+        decimal EarlyWithdrawFee { get; set; }
     }
 }

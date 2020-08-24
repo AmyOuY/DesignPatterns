@@ -14,5 +14,6 @@ namespace ISPLibrary.SavingAccounts
         public int AccountNumber { get; set; } = 7654321;
         public decimal Balance { get; set; } = 10000M;
         public DateTime AccountOpenDate { get; set; }
+        public decimal EarlyWithdrawFee { get; set; } = 100M;
     }
 }
