@@ -2,9 +2,11 @@
 
 <ol>
   <h2> Console UI examples to show design patterns SOLID principles: </h2>
-  <li> Single Responsibility Principle </li>
-<li>Open Closed Principle </li>
-3. Liskov Substitution Principle
-4. Interface Segregation Principle
-5. Dependency Inversion Principle
-  </ol>
+  <li> <h3><strong>S</strong>ingle Responsibility Principle<h3> </li>
+  <li> <h3><strong>O</strong>pen Closed Principle<h3> </li>
+  <li> <h3><strong>L</strong>iskov Substitution Principle<h3> </li>
+  <li> <h3><strong>I</strong>nterface Segregation Principle<h3> </li>
+  <li> <h3><strong>D</strong>ependency Inversion Principle<h3> </li>
+</ol>
+    
+  <h2> Console UI and WinForms examples to show <strong>delegation</strong> design pattern</h2>
